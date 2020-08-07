@@ -59,10 +59,10 @@ Here are some ideas to get you started:
 ### 📈 Github Stats :  
 
 <a href="https://github.com/hrk2023/hrk2023">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrk2023&count_private=true&theme=gruvbox&bg_color=#ffffff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrk2023&count_private=true" />
 </a>
 <a href="https://github.com/hrk2023/hrk2023">
-    <img align="left" alt="Rittik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hrk2023&show_icons=true&hide_border=true&count_private=true&theme=gruvbox&bg_color=#ffffff" />
+    <img align="left" alt="Rittik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hrk2023&show_icons=true&hide_border=true&count_private=true" />
 </a>
 
 
