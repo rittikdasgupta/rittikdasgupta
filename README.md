@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 -->
 
 ## I'm a Student, Developer !
-- 🔭 I’m currently working on a React Native App
+- 🔭 I’m currently working on a Flutter App
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Become better at Data Structures & Algorithms
 - ⚡ Fun fact: I love to play guitar 🎸
 
 ## Connect with me :
