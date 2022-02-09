@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to play guitar 🎸
 
 ## Connect with me :
-[<img width="22px" align="left" src="https://raw.githubusercontent.com/hrk2023/hrk2023/master/images/linkedin.png"/>][linkedin]
+[<img width="30px" align="left" src="https://raw.githubusercontent.com/hrk2023/hrk2023/master/images/linkedin.png"/>][linkedin]
 
-[<img width="22px" align="left" src="https://raw.githubusercontent.com/hrk2023/hrk2023/master/images/facebook.png"/>][facebook]
+[<img width="30px" align="left" src="https://raw.githubusercontent.com/hrk2023/hrk2023/master/images/facebook.png"/>][facebook]
 
-[<img width="22px" align="left" src="https://raw.githubusercontent.com/hrk2023/hrk2023/master/images/instagram.png"/>][instagram]
+[<img width="30px" align="left" src="https://raw.githubusercontent.com/hrk2023/hrk2023/master/images/instagram.png"/>][instagram]
 
-[<img width="22px" align="left" src="https://raw.githubusercontent.com/hrk2023/hrk2023/master/images/telegram.png"/>][telegram]
+[<img width="30px" align="left" src="https://raw.githubusercontent.com/hrk2023/hrk2023/master/images/telegram.png"/>][telegram]
 
 
 [facebook]: https://www.facebook.com/hritick.dasgupta
