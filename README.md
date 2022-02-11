@@ -88,9 +88,9 @@ Here are some ideas to get you started:
 ### 📈 Github Stats :  
 
 <a href="https://github.com/hrk2023/hrk2023">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrk2023&title_color=111111&hide_border=true&count_private=true&bg_color=80,59F562,00D68B&layout=compact" />
+    <img align="left" alt="Rittik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hrk2023&show_icons=true&hide_border=true&count_private=true&bg_color=80,59F562,00D68B&text_color=004D0A&title_color=111111&icon_color=111111" />
 </a>
 <a href="https://github.com/hrk2023/hrk2023">
-    <img align="left" alt="Rittik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hrk2023&show_icons=true&hide_border=true&count_private=true&bg_color=80,59F562,00D68B&text_color=004D0A&title_color=111111&icon_color=111111" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrk2023&title_color=111111&hide_border=true&count_private=true&bg_color=80,59F562,00D68B&layout=compact" />
 </a>
 
