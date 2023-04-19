@@ -9,9 +9,8 @@ Here are some ideas to get you started:
 -->
 
 ## I'm a Developer !
-- 🔭 I’m currently working on a FastAPI application
+- 🔭 I’m currently working on a Golang application
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Become better at Data Structures & Algorithms
 - ⚡ Fun fact: I love to play guitar 🎸
 
 ## Connect with me :
