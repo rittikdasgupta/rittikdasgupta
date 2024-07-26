@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 [<img width="30px" align="left" src="https://raw.githubusercontent.com/hrk2023/hrk2023/master/images/telegram.png"/>][telegram]
 
 
-[facebook]: https://www.facebook.com/hritick.dasgupta
-[linkedin]: https://www.linkedin.com/in/hrk2023/
+[linkedin]: https://www.linkedin.com/in/rittikdasgupta
 [instagram]: https://www.instagram.com/_cipherman_/
 [telegram]: https://web.telegram.org/#/@Dreadstone
 <br><br>
@@ -87,9 +86,9 @@ Here are some ideas to get you started:
 ### 📈 Github Stats :  
 
 <a href="https://github.com/hrk2023/hrk2023">
-    <img align="left" alt="Rittik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rittikdasgupta&show_icons=true&hide_border=true&count_private=true&bg_color=80,59F562,00D68B&text_color=004D0A&title_color=111111&icon_color=111111" />
+    <img align="left" alt="Rittik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rittikdasgupta&show_icons=true&count_private=true&hide_rank=true&theme=transparent />
 </a>
 <a href="https://github.com/hrk2023/hrk2023">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rittikdasgupta&title_color=111111&hide_border=true&count_private=true&bg_color=80,59F562,00D68B&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rittikdasgupta&count_private=true&theme=transparent&layout=compact" />
 </a>
 
