@@ -86,9 +86,6 @@ Here are some ideas to get you started:
 ### 📈 Github Stats :  
 
 <a href="https://github.com/hrk2023/hrk2023">
-    <img align="left" alt="Rittik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rittikdasgupta&show_icons=true&count_private=true&hide_rank=true&theme=transparent />
-</a>
-<a href="https://github.com/hrk2023/hrk2023">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rittikdasgupta&count_private=true&theme=transparent&layout=compact" />
+    <img align="left" alt="Rittik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rittikdasgupta&show_icons=true&count_private=true&theme=transparent />
 </a>
 
