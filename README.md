@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 ## Connect with me :
 [<img width="30px" align="left" src="https://raw.githubusercontent.com/hrk2023/hrk2023/master/images/linkedin.png"/>][linkedin]
 
-[<img width="30px" align="left" src="https://raw.githubusercontent.com/hrk2023/hrk2023/master/images/facebook.png"/>][facebook]
-
 [<img width="30px" align="left" src="https://raw.githubusercontent.com/hrk2023/hrk2023/master/images/instagram.png"/>][instagram]
 
 [<img width="30px" align="left" src="https://raw.githubusercontent.com/hrk2023/hrk2023/master/images/telegram.png"/>][telegram]
@@ -86,6 +84,6 @@ Here are some ideas to get you started:
 ### 📈 Github Stats :  
 
 <a href="https://github.com/rittikdasgupta/rittikdasgupta">
-    <img align="left" alt="Rittik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rittikdasgupta&show_icons=true&theme=transparent />
+    <img align="left" alt="Rittik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rittikdasgupta&show_icons=true&theme="transparent"/>
 </a>
 
