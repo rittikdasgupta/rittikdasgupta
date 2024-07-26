@@ -81,9 +81,3 @@ Here are some ideas to get you started:
 
 <br><br><br>
 
-### 📈 Github Stats :  
-
-<a href="https://github.com/rittikdasgupta/rittikdasgupta">
-    <img align="left" alt="Rittik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rittikdasgupta&show_icons=true&theme="transparent"/>
-</a>
-
